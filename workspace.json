@@ -2,6 +2,8 @@
   "version": 2,
   "projects": {
     "advisor": "apps/advisor",
-    "advisor-e2e": "apps/advisor-e2e"
+    "advisor-e2e": "apps/advisor-e2e",
+    "map": "libs/map",
+    "ui-shared": "libs/ui-shared"
   }
 }
