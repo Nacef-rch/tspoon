@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "advisor": "apps/advisor",
+    "advisor-e2e": "apps/advisor-e2e"
+  }
 }
